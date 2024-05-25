@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kunal!
-💫 I'm a software engineer with a passion for **mobile and web app development**<br><br>🔭 I’m currently working on **Melody Miner- a music recommendation app**<br><br>🌱 I’m currently learning **React Native, Swift, and Kotlin**<br><br>📫 How to reach me **klohtia1@gmail.com** **|** **[LinkedIn](www.linkedin.com/in/klohtia)**<br><br>📄 Know about **[My Experiences](https://appurl.io/DnhsOQFEo1)**<br><br>
+💫 I'm a software engineer with a passion for **mobile and web app development**<br><br>🔭 I’m currently working on **Melody Miner- a music recommendation app**<br><br>🌱 I’m currently learning **React Native, Swift, and Kotlin**<br><br>📫 How to reach me **[Email](klohtia1@gmail.com)** **|** **[LinkedIn](www.linkedin.com/in/klohtia)**<br><br>📄 Know about **[My Experiences](https://appurl.io/DnhsOQFEo1)**<br><br>
 
 
 # 💻 Tech Stack:
