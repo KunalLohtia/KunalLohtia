@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kunal!
-💫 I'm a software engineer with a passion for **mobile and web app development**<br><br>🔭 I’m currently working on **Semantic Search Web App- A web application that lets users upload documents and use an AI chatbot to find specific information within them**<br><br>🌱 I’m currently learning **Pinecone Vector Databases and Langchain**<br><br>📫 How to reach me **[Email](klohtia1@gmail.com)** **|** **[LinkedIn](www.linkedin.com/in/klohtia)**<br><br>📄 Know about **[My Experiences](https://appurl.io/DnhsOQFEo1)**<br><br>
+💫 I'm a software engineer with a passion for **mobile and web app development**<br><br>🔭 I’m currently working on **Semantic Search Web App- A web application that lets users upload documents and use an AI chatbot to find specific information within them**<br><br>🌱 I’m currently learning **Pinecone Vector Databases and Langchain**<br><br>📫 How to reach me **[Email](klohtia1@gmail.com)** **|** **[LinkedIn](www.linkedin.com/in/klohtia)**<br><br>
 
 
 # 💻 Tech Stack:
