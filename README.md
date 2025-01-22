@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Kunal!
-💫 I'm a software engineer with a passion for **mobile and web app development**<br><br>🔭 I’m currently working on **Semantic Search Web App- A web application that lets users upload documents and use an AI chatbot to find specific information within them**<br><br>🌱 I’m currently learning **Pinecone Vector Databases and Langchain**<br><br>📫 How to reach me **[Email](klohtia1@gmail.com)** **|** **[LinkedIn](www.linkedin.com/in/klohtia)**<br><br>
+💫 I'm a full-stack engineer and product manager passionate about building AI-powered and user-intuitive products <br><br>🔭 I’m currently working on:
 
+1. **FloraPulse Mobile App** - A mobile app for farmers and scientists to view and manage data from their irrigation sensors
+2. **CourseAssist AI** - An AI-powered Course Assistant tool for universities
+
+<br>🌱 I’m currently learning **AWS**<br><br>📫 How to reach me **[Email](mailto:klohtia1@gmail.com)** **|** **[LinkedIn](https://www.linkedin.com/in/klohtia)**<br><br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) <br>
