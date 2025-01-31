@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kunal!
 💫 I'm a full-stack engineer and product manager passionate about building AI-powered and user-intuitive products <br><br>🔭 I’m currently working on:
 
-1. **FloraPulse Mobile App** - A mobile app for farmers and scientists to view and manage data from their irrigation sensors
+1. **FloraPulse Mobile App** - A mobile app for farmers and scientists to view and manage data from FloraPulse irrigation sensors
 2. **CourseAssist AI** - An AI-powered Course Assistant tool for universities
 
 <br>🌱 I’m currently learning **AWS**<br><br>📫 How to reach me **[Email](mailto:klohtia1@gmail.com)** **|** **[LinkedIn](https://www.linkedin.com/in/klohtia)**<br><br>
