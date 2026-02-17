@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Kunal](https://kunallohtia.github.io/)
 💫 I'm a full-stack engineer and product manager passionate about building AI-powered, user-intuitive products.
 
-💼 Currently @ **FloraPulse** – Developing a mobile app that enables farmers and scientists to visualize and manage data from FloraPulse irrigation sensors.
+💼 Currently @ **FloraPulse** – Developing a [web app](https://app.florapulse.com/) that enables farmers and scientists to visualize and manage data from FloraPulse irrigation sensors.
 
 🌱 Learning **AWS**
 
